@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<# 💜 ANJALI SHARMA | Developer in Progress
+ 💜 ANJALI SHARMA | Developer in Progress
 
 <div align="center">
 
